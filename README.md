@@ -2,9 +2,8 @@
 
 My Personal portfolio
 
-- [My Portfolio](https://lordematus.github.io/)
-- [Portfolio Analytics](https://umami-production-c447.up.railway.app/share/aHgZyh9ohKFdMD51/lordematus.github.io)
-
+- [My Portfolio](https://lordematus.github.io/){:target="_blank"}
+- [Portfolio Analytics](https://umami-production-c447.up.railway.app/share/aHgZyh9ohKFdMD51/lordematus.github.io){:target="_blank"}
 
 <!--
 **lordematus/lordematus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
